@@ -1,4 +1,5 @@
 class Solution:
+    # TC: O(N), MC: O(N)
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         dict = {}
         
