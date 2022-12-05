@@ -1,4 +1,5 @@
 class Solution:
+    # TC: O(N), MC: O(1)
     def moveZeroes(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
